@@ -1,0 +1,6 @@
+Nome : Gabriel dos Prazeres
+Idade : 29
+Profissão : Senior de TI
+Morada : Apartamento
+Altura : 1.76
+Peso : 78kg
